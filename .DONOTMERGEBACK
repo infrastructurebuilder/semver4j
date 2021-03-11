@@ -1,0 +1,6 @@
+This is the release for com.vdurmont.semver4j moved to IB's release chain
+This release branch will not change the code, or at least not change it much,
+but the pom.xml and CI work will definitely not be backwards compatible.
+
+DO NOT MERGE THESE CHANGES BACK TO MASTER OR DEVELOP.
+Rebase this branch from master (or possibly develop, but prolly not).
