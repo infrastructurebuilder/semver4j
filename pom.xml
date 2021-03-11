@@ -154,7 +154,7 @@
         </pluginManagement>
     </build>
 
-    <profiles>
+<!--     <profiles>
         <profile>
             <id>release</id>
             <build>
@@ -251,4 +251,5 @@
             <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
+ -->
 </project>
